@@ -1,0 +1,8 @@
+{
+  "name": "clear",
+  "description": "kirby tag for bootstrap clearfix",
+  "author": "Timo Schneider",
+  "license": "MIT",
+  "version": "0.1.0",
+  "type": "kirby-tag"
+}
